@@ -42,6 +42,5 @@ It is a purely community driven initiative and all the materials are available o
 
 ---
 
-<p style='text-align: center; text-shadow: 2px 2px 5px yellow; font-size: 28px; font-weight: bold'>
-    Keep Exploring and Keep Sharing!
-</p>
+## Keep Exploring and Keep Sharing!
+
