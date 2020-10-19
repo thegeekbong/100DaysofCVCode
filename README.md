@@ -3,7 +3,7 @@
 An initiative taken by me ([Prajit Mukherjee](https://github.com/thegeekbong)) to be able to create and apply the concepts of the vast field of Computer Vision. 
 
 ### Telegram Group
-During this course of learning and application, a Telegram [group](https://t.me/joinchat/J2McLRmDbMj3Kr56fVXRDw) will be maintained. 
+During this course of learning and application, a Telegram [group](https://t.me/HundredDaysCVcode) will be maintained. 
 
 ### Motivation of the Initiative
 From  warning  sleep  deprived  drivers  to  helping  in  early  prognosis  of  life-threatening ailments like Cancer, computer vision is quite prominent in the field of Artificial Intelligence.
