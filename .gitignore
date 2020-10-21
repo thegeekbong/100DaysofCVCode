@@ -1,6 +1,2 @@
 #Ignoring the resources directory
 resources/
-
-#ignoring the Telegram bot directory
-telegram-bot/
-
